@@ -2,4 +2,6 @@
 
 | Problem Number | Problem Name | Date |
 | ------------- | ------------- |------------- |
-| 33  | Search in Rotated Sorted Array  | 24/04/21
+| 33  | Search in Rotated Sorted Array  | 24/04/21 |
+| 69  | Sqrt(x)  | 25/04/21 |
+
