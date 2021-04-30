@@ -4,4 +4,5 @@
 | ------------- | ------------- |------------- |
 | 33  | Search in Rotated Sorted Array  | 24/04/21 |
 | 69  | Sqrt(x)  | 25/04/21 |
+| 970  | Powerful Integers  | 30/04/21 |
 
