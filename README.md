@@ -1,4 +1,4 @@
-## 100 days coding challenge
+## Code Solve in leetcode
 
 | Problem Number | Problem Name | Date |
 | ------------- | ------------- |------------- |
@@ -9,3 +9,4 @@
 | 268 | Missing Number     | 1/05/21 |
 | 326 | Power of Three  | 01/05/21 |
 | 22 | Generate Parentheses  | 16/06/21 |
+| 1089 | Duplicate Zeros  | 19/06/21 |
