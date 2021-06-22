@@ -10,3 +10,4 @@
 | 326 | Power of Three  | 01/05/21 |
 | 22 | Generate Parentheses  | 16/06/21 |
 | 1089 | Duplicate Zeros  | 19/06/21 |
+| 27 | Remove Element  | 22/06/21 |
